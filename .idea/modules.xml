@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignments.iml" filepath="$PROJECT_DIR$/.idea/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java3_3/Library/Library.iml" filepath="$PROJECT_DIR$/java3_3/Library/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java1_1/java1_1.iml" filepath="$PROJECT_DIR$/java1_1/java1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java1_2/java1_2.iml" filepath="$PROJECT_DIR$/java1_2/java1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java1_3/java1_3.iml" filepath="$PROJECT_DIR$/java1_3/java1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java1_4/java1_4.iml" filepath="$PROJECT_DIR$/java1_4/java1_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2_1/java2_1.iml" filepath="$PROJECT_DIR$/java2_1/java2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2_2/java2_2.iml" filepath="$PROJECT_DIR$/java2_2/java2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2_3/java2_3.iml" filepath="$PROJECT_DIR$/java2_3/java2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java3_1/java3_1.iml" filepath="$PROJECT_DIR$/java3_1/java3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java3_2/java3_2.iml" filepath="$PROJECT_DIR$/java3_2/java3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java3_3/java3_3.iml" filepath="$PROJECT_DIR$/java3_3/java3_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java3_4/java3_4.iml" filepath="$PROJECT_DIR$/java3_4/java3_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java4_0/java4_0.iml" filepath="$PROJECT_DIR$/java4_0/java4_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java5_1/java5_1.iml" filepath="$PROJECT_DIR$/java5_1/java5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java5_2/java5_2.iml" filepath="$PROJECT_DIR$/java5_2/java5_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8_1/java8_1.iml" filepath="$PROJECT_DIR$/java8_1/java8_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8_2/java8_2.iml" filepath="$PROJECT_DIR$/java8_2/java8_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8_3/java8_3.iml" filepath="$PROJECT_DIR$/java8_3/java8_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2_2/task2-5/task2-5.iml" filepath="$PROJECT_DIR$/java2_2/task2-5/task2-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2_3/task2and3/task2and3.iml" filepath="$PROJECT_DIR$/java2_3/task2and3/task2and3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java3_1/task3/task3.iml" filepath="$PROJECT_DIR$/java3_1/task3/task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java3_1/task4/task4.iml" filepath="$PROJECT_DIR$/java3_1/task4/task4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2_3/task4and5/task4and5.iml" filepath="$PROJECT_DIR$/java2_3/task4and5/task4and5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2_3/task6/task6.iml" filepath="$PROJECT_DIR$/java2_3/task6/task6.iml" />
+    </modules>
+  </component>
+</project>

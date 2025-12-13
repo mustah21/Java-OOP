@@ -6,7 +6,7 @@ public class task4 {
         Scanner scan = new Scanner(System.in);
         int score = 0;
 
-        while (score < 10) {
+        while (score < 10) { // this can also be done with for loop
             for (int i = 0; i < 10; i++) {
                 int one = (int) (Math.random() * 10) + 1;
                 int two = (int) (Math.random() * 10) + 1;

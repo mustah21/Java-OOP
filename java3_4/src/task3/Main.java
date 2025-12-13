@@ -33,6 +33,7 @@ public class Main {
 
                 System.out.println  ("File is made and enrollment is written to file");
 
+
             } catch (Exception e) {
                 System.err.println("Writing person: " + e);
             }

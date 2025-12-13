@@ -16,7 +16,7 @@ class TestPalindrome {
     @Test
     public void testPalindromeWithMixedCase() {
         assertFalse(checker.isPalindrome("Madam"));
-    } // case insensitive
+    } // case sensitive
 
     @Test
     public void testNonPalindrome() {
@@ -28,5 +28,18 @@ class TestPalindrome {
         assertFalse(checker.isPalindrome("nurses run"));
     }
 
+//    @Test
+//    public void testNoInputs(){
+//        assertFalse(checker.isPalindrome(""));
+//        assertFalse(checker.isPalindrome(" "));
+//      //  assertFalse(checker.isPalindrome(null));
+//    }
+
+    @Test
+    public void testPalindrome(){
+        assertTrue(checker.isPalindrome("amanaplanacanalpanama"));
+        assertTrue(checker.isPalindrome("racecar"));
+        assertTrue(checker.isPalindrome("1234321"));
+    }
 
 }
