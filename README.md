@@ -36,7 +36,7 @@ Java-OOP/
 
 ### Prerequisites
 
-- Java JDK 8 or higher
+- Java JDK 17 or 21
 - An IDE such as [IntelliJ IDEA](https://www.jetbrains.com/idea/) or [Eclipse](https://www.eclipse.org/)
 
 ### Running an Exercise
