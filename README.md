@@ -27,12 +27,12 @@ Java-OOP/
 └── java8_4/    # Exercise 8.4
 ```
 
-## 🧰 Technologies
+## Technologies
 
 - **Language:** Java
 - **IDE:** IntelliJ IDEA
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -49,7 +49,7 @@ Java-OOP/
 3. Navigate to the desired exercise folder (e.g., `java1_1`).
 4. Run the `Main.java` (or equivalent entry point) file.
 
-## 📚 Topics Covered
+## Topics Covered
 
 This repository covers core OOP principles in Java, including:
 
