@@ -53,12 +53,11 @@ Java-OOP/
 
 This repository covers core OOP principles in Java, including:
 
----
-_This readme has primarily been written by Claude._
-
 - Classes and objects
 - Encapsulation
 - Inheritance
 - Polymorphism
 - Abstraction
 - Interfaces
+---
+_This readme has primarily been written by Claude._
